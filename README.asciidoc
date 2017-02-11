@@ -15,7 +15,7 @@ http://asciidoctor.github.io/asciidoctor-gradle-examples/
 
 Clone the example repository using git:
 
- $ git clone https://github.com/asciidoctor/asciidoctor-gradle-examples
+ $ git clone https://github.com/andreas-oberheim/asciidoctor-presentations-gradle-examples
  
 == Setting up IntelliJ
 
