@@ -65,4 +65,4 @@ plugin.
 Copyright (C) 2014 The Asciidoctor Project.
 Free use of this software is granted under the terms of the MIT License.
 
-See the link:LICENSE.adoc[] file for details.
+See the link:LICENSE.asciidoc file for details.
