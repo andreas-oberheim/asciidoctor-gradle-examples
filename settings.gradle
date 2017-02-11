@@ -1,6 +1,6 @@
-rootProject.name = 'asciidoctor-gradle-examples'
+rootProject.name = 'asciidoctor-presentations-gradle-examples'
 
-include 'asciidoc-diagram-to-html-example'
-include 'asciidoc-to-all-example'
-include 'asciidoc-to-deckjs-example'
-include 'asciidoc-to-revealjs-example'
+include 'asciidoc-diagram-to-presentation-example'
+include 'asciidoc-to-all-presentation-examples'
+include 'asciidoc-to-deckjs-presentation-example'
+include 'asciidoc-to-revealjs-presentation-example'
