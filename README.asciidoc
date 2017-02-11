@@ -1,6 +1,6 @@
 image::https://travis-ci.org/asciidoctor/asciidoctor-gradle-examples.svg?branch=master[Build Status]
 
-= Asciidoctor Gradle Plugin: Examples
+= Asciidoctor Presentations via Gradle Plugin: Examples
 
 This repository contains a collection of sample projects that demonstrate numerous ways to use the Asciidoctor Gradle
 plugin in a Gradle project.
