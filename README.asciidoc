@@ -62,6 +62,7 @@ plugin.
 
 == Copyright and Licensing
 
+Copyright (C) 2017 Andreas M. Oberheim
 Copyright (C) 2014 The Asciidoctor Project.
 Free use of this software is granted under the terms of the MIT License.
 
