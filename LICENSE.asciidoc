@@ -1,7 +1,6 @@
-:hardbreaks:
-
 The MIT License
 ===============
+:hardbreaks:
 
 Copyright (C) 2017 Andreas M. Oberheim
 Copyright (C) 2014 The Asciidoctor Project
